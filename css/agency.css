@@ -398,8 +398,9 @@ header .intro-text .intro-heading {
 }
 
 header .main-logo{
-  height: 80vh;
+  height: 60vh;
   margin: 125px 0px 100px 0px;
+  max-width: 90vh;
 }
 
 @media (min-width: 768px) {
@@ -429,7 +430,7 @@ section {
 section h2.section-heading {
   font-size: 40px;
   margin-top: 0;
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 section h3.section-subheading {
   font-size: 16px;
