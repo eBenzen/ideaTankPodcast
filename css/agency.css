@@ -398,8 +398,8 @@ header .intro-text .intro-heading {
 }
 
 header .main-logo{
-  max-height: 500px;
-  margin: 175px 0px 100px 0px;
+  height: 80vh;
+  margin: 125px 0px 100px 0px;
 }
 
 @media (min-width: 768px) {
